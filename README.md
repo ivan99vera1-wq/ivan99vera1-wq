@@ -1,8 +1,19 @@
 <p align="center">
-  <img src="https://github.com/ivan99vera1-wq.png" width="68" alt="avatar" style="border-radius:50%;border:2px solid #30363d;"/>
+  <img src="https://media.giphy.com/media/LVr6bZmM0Rjm8/giphy.gif" width="150" alt="fire" />
 </p>
 
-<h1 align="center" style="font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;letter-spacing:6px;color:#e6edf3;margin:12px 0 2px;border-bottom:0;">IVAN VERA</h1>
+<p align="center" style="margin:14px 0 2px;">
+  <table align="center" style="border-collapse:separate;border-spacing:0;">
+    <tr>
+      <td align="right" valign="middle" style="padding-right:16px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" width="46" alt="paraguay flag" />
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1800&pause=4200&color=22D3EE&center=true&vCenter=true&width=440&height=78&lines=IVAN+VERA" alt="IVAN VERA" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center" style="color:#8b949e;font-family:ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:3px;">DEVELOPER · AI · DAM STUDENT</p>
 
@@ -202,5 +213,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1400&color=3FB950&center=true&vCenter=true&width=300&height=34&lines=%3C%2F%3E+Code.+Learn.+Repeat.+%E2%98%95" alt="footer" />
-  <p style="color:#484f58;font-size:12px;margin-top:8px;">© 2026 · built with ☕ and curiosity</p>
+  <p style="color:#484f58;font-size:12px;margin-top:8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" width="16" alt="py" style="vertical-align:middle;"/> © 2026 · built with ☕ and curiosity
+  </p>
 </div>
