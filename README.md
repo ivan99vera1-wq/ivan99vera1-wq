@@ -11,12 +11,12 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650" alt="Banner programador" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="650" alt="Banner programador" />
 </p>
 
 ## 👨🏻‍💻 Sobre mí
 
-<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" alt="Hola" />
+<img align="right" src="https://media.tenor.com/M7jo4nJF-7AAAAAM/drogon-dracarys.gif" width="170" alt="Dragón" />
 
 - 🎓 Estudiando el **FP de DAM** *(Desarrollo de Aplicaciones Multiplataforma)*
 - 🤖 Apasionado de la **programación con IA** — siempre aprendiendo algo nuevo
@@ -41,15 +41,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ivan99vera1-wq&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e6edf3&locale=es" alt="Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan99vera1-wq&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e6edf3&locale=es" alt="Lenguajes" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan99vera1-wq&theme=github_dark" alt="Perfil" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivan99vera1-wq&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivan99vera1-wq&theme=github_dark" alt="Lenguajes" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ivan99vera1-wq&theme=github-dark-blue&hide_border=true" alt="Racha" />
 </div>
 
 ## 🚀 Proyectos
 
 <div align="center">
   <a href="https://github.com/ivan99vera1-wq/Solca-decoraciones">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivan99vera1-wq&repo=Solca-decoraciones&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e6edf3" alt="Solca-decoraciones" />
+    <img src="https://img.shields.io/badge/Solca--decoraciones-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Solca-decoraciones" />
   </a>
 </div>
 
