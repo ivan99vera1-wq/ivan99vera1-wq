@@ -11,12 +11,12 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="650" alt="Banner programador" />
+  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="650" alt="Banner programador" />
 </p>
 
 ## 👨🏻‍💻 Sobre mí
 
-<img align="right" src="https://media.tenor.com/M7jo4nJF-7AAAAAM/drogon-dracarys.gif" width="170" alt="Dragón" />
+<img align="right" src="https://media.giphy.com/media/LVr6bZmM0Rjm8/giphy.gif" width="170" alt="Fuego" />
 
 - 🎓 Estudiando el **FP de DAM** *(Desarrollo de Aplicaciones Multiplataforma)*
 - 🤖 Apasionado de la **programación con IA** — siempre aprendiendo algo nuevo
