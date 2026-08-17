@@ -23,6 +23,10 @@
 
 <div align="center" style="height:1px;max-width:560px;margin:26px auto;background:linear-gradient(90deg,transparent,#22d3ee,transparent);"></div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width="120" alt="dino gif" />
+</p>
+
 <!-- ─── TERMINAL ─────────────────────────────────────────────────────── -->
 
 <div align="center">
