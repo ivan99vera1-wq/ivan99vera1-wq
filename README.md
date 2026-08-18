@@ -13,7 +13,11 @@
 <p align="center" style="color:#8b949e;font-family:ui-monospace,Menlo,monospace;font-size:13px;letter-spacing:3px;">DESARROLLADOR · IA · ESTUDIANTE FP DAM</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=46&lines=Construyendo+cosas+con+c%C3%B3digo.;Aprendiendo+algo+nuevo+cada+d%C3%ADa.;FP+DAM+%C2%B7+Desarrollo+de+software+con+IA.;C%C3%B3digo.+Aprende.+Repite." alt="texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=46&lines=Construyendo+cosas+con+c%C3%B3digo.;Learning+something+new+every+day.;FP+DAM+%C2%B7+Desarrollo+de+software+con+IA.;Code.+Learn.+Repeat." alt="texto animado" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width="100%" alt="dino gif" />
 </p>
 
 <p align="center">
@@ -50,7 +54,7 @@
     <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">☕ Café</td>
     <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🎸 Guitarra</td>
     <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🎮 Gaming</td>
-    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">⚡ Código. Aprende. Repite.</td>
+    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">⚡ Code. Learn. Repeat.</td>
   </tr>
 </table>
 
@@ -228,7 +232,7 @@
 </div>
 
 <div align="center" style="margin-top:18px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1400&color=3FB950&center=true&vCenter=true&width=300&height=34&lines=C%C3%B3digo.+Aprende.+Repite.+%E2%98%95" alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1400&color=3FB950&center=true&vCenter=true&width=300&height=34&lines=Code.+Learn.+Repeat.+%E2%98%95" alt="footer" />
   <p style="color:#484f58;font-size:12px;margin-top:8px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" width="16" alt="py" style="vertical-align:middle;"/> © 2026 · construido con ☕ y curiosidad
   </p>
