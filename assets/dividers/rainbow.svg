@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="24" viewBox="0 0 600 24">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff004c">
+        <animate attributeName="stop-color" values="#ff004c;#ff9900;#fcee0a;#00c16e;#00a2ff;#a000ff;#ff004c" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="20%" stop-color="#ff9900">
+        <animate attributeName="stop-color" values="#ff9900;#fcee0a;#00c16e;#00a2ff;#a000ff;#ff004c;#ff9900" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="40%" stop-color="#fcee0a">
+        <animate attributeName="stop-color" values="#fcee0a;#00c16e;#00a2ff;#a000ff;#ff004c;#ff9900;#fcee0a" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%" stop-color="#00c16e">
+        <animate attributeName="stop-color" values="#00c16e;#00a2ff;#a000ff;#ff004c;#ff9900;#fcee0a;#00c16e" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="80%" stop-color="#00a2ff">
+        <animate attributeName="stop-color" values="#00a2ff;#a000ff;#ff004c;#ff9900;#fcee0a;#00c16e;#00a2ff" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a000ff">
+        <animate attributeName="stop-color" values="#a000ff;#ff004c;#ff9900;#fcee0a;#00c16e;#00a2ff;#a000ff" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-400%" width="140%" height="900%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="40" y="10" width="520" height="4" rx="2" fill="url(#rainbow)" filter="url(#glow)"/>
+</svg>
