@@ -9,7 +9,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" width="46" alt="paraguay flag" />
       </td>
       <td align="left" valign="middle">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1800&pause=4200&color=22D3EE&center=true&vCenter=true&width=440&height=78&lines=IVAN+VERA" alt="IVAN VERA" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1800&pause=4200&color=green&center=true&vCenter=true&width=440&height=78&lines=IVAN+VERA" alt="IVAN VERA" />
       </td>
     </tr>
   </table>
