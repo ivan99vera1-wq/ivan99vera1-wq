@@ -1,139 +1,135 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LVr6bZmM0Rjm8/giphy.gif" width="150" alt="fire" />
+  <img src="https://media.giphy.com/media/LVr6bZmM0Rjm8/giphy.gif" width="150" alt="fuego" />
 </p>
 
-<p align="center" style="margin:14px 0 2px;">
-  <table align="center" style="border-collapse:separate;border-spacing:0;">
-    <tr>
-      <td align="right" valign="middle" style="padding-right:16px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" width="46" alt="paraguay flag" />
-      </td>
-      <td align="left" valign="middle">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1800&pause=4200&color=green&center=true&vCenter=true&width=440&height=78&lines=IVAN+VERA" alt="IVAN VERA" />
-      </td>
-    </tr>
-  </table>
+<p align="center" style="margin:14px 0 0;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" width="42" alt="bandera de paraguay" />
 </p>
 
-<p align="center" style="color:#8b949e;font-family:ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:3px;">DEVELOPER · AI · DAM STUDENT</p>
+<p align="center" style="margin:4px 0 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=44&duration=1800&pause=4200&color=22D3EE&center=true&vCenter=true&width=460&height=80&lines=IVAN+VERA" alt="IVAN VERA" />
+</p>
+
+<p align="center" style="color:#8b949e;font-family:ui-monospace,Menlo,monospace;font-size:13px;letter-spacing:3px;">DESARROLLADOR · IA · ESTUDIANTE FP DAM</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=46&lines=Building+things+with+code.;Learning+something+new+every+day.;FP+DAM+%C2%B7+AI+%26+software+development.;Code.+Learn.+Repeat." alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=46&lines=Construyendo+cosas+con+c%C3%B3digo.;Aprendiendo+algo+nuevo+cada+d%C3%ADa.;FP+DAM+%C2%B7+Desarrollo+de+software+con+IA.;C%C3%B3digo.+Aprende.+Repite." alt="texto animado" />
 </p>
-
-<div align="center" style="height:1px;max-width:560px;margin:26px auto;background:linear-gradient(90deg,transparent,#22d3ee,transparent);"></div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" width="100%" alt="dino gif" />
+  <img src="assets/dividers/rainbow.svg" width="560" alt="separador arcoíris" />
 </p>
 
-<!-- ─── TERMINAL ─────────────────────────────────────────────────────── -->
+<!-- ─── SOBRE MÍ ──────────────────────────────────────────────────────── -->
+
+<h2 align="center">👋 Sobre mí</h2>
 
 <div align="center">
-  <div style="display:inline-block;max-width:100%;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:18px 24px;box-shadow:0 8px 32px rgba(0,0,0,.45);">
-    <div style="text-align:left;padding-bottom:10px;margin-bottom:12px;border-bottom:1px solid #30363d;color:#8b949e;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px;">
-      <span style="color:#ff5f56;">●</span>&nbsp;<span style="color:#ffbd2e;">●</span>&nbsp;<span style="color:#27c93f;">●</span>
-      <span style="margin-left:12px;">ivan — zsh — ~/dev</span>
-    </div>
-    <pre style="margin:0;background:transparent;border:0;padding:0;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;line-height:1.8;color:#8b949e;text-align:left;overflow:auto;">
-<span style="color:#22d3ee;">┌──(</span><span style="color:#e6edf3;">ivan@github</span><span style="color:#22d3ee;">)</span><span style="color:#8b949e;">-</span><span style="color:#22d3ee;">[</span><span style="color:#e6edf3;">~/dev</span><span style="color:#22d3ee;">]</span>
-<span style="color:#22d3ee;">└─$</span> <span style="color:#e6edf3;font-weight:600;">whoami</span>
-<span style="color:#8b949e;">   ivan@developer</span>
-<span style="color:#22d3ee;">└─$</span> <span style="color:#e6edf3;font-weight:600;">location</span>
-<span style="color:#8b949e;">   madrid, spain</span> <span style="color:#e6edf3;">🇪🇸</span>
-<span style="color:#22d3ee;">└─$</span> <span style="color:#e6edf3;font-weight:600;">origin</span>
-<span style="color:#8b949e;">   paraguay</span> <span style="color:#e6edf3;">🇵🇾</span>
-<span style="color:#22d3ee;">└─$</span> <span style="color:#e6edf3;font-weight:600;">currently_learning</span>
-<span style="color:#8b949e;">   fp dam · software development · ai-assisted coding</span>
-<span style="color:#22d3ee;">└─$</span> <span style="color:#e6edf3;font-weight:600;">coffee</span>
-<span style="color:#f0883e;">   ████████████████████</span> <span style="color:#8b949e;">100%</span>
-<span style="color:#22d3ee;">└─$</span> <span style="color:#e6edf3;font-weight:600;">status</span>
-<span style="color:#3fb950;">   ● building my career as a developer</span><span style="color:#22d3ee;">▊</span>
-    </pre>
+  <div style="width:100%;max-width:680px;border:1px solid #30363d;border-radius:12px;background:linear-gradient(135deg,rgba(34,211,238,0.06),rgba(167,139,250,0.06));padding:22px 26px;text-align:left;color:#c9d1d9;font-size:15px;line-height:1.75;">
+    <p style="margin:0 0 12px;">
+      Desarrollador web paraguayo 🇵🇾 con base en Madrid, España 🇪🇸. Estudiante de
+      <b style="color:#22d3ee;">FP DAM</b> — Desarrollo de Aplicaciones Multiplataforma — y apasionado por el
+      desarrollo de software moderno y el código asistido por IA.
+    </p>
+    <p style="margin:0;">
+      Me gusta construir productos web que resuelven problemas reales, aprender algo nuevo cada día y
+      combinar creatividad, código y café ☕. Actualmente exploro el desarrollo con agentes de IA
+      (<b style="color:#22d3ee;">Claude Code</b> y <b style="color:#22d3ee;">OpenCode</b>) y aplicaciones multiplataforma.
+    </p>
   </div>
 </div>
 
-<br/>
-
-<!-- ─── ABOUT ────────────────────────────────────────────────────────── -->
-
-<h2 align="center"><code>$ about_me</code></h2>
-
 <table align="center" style="border-collapse:separate;border-spacing:8px;">
   <tr>
-    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🇵🇾 Paraguayan</td>
-    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">📍 Madrid, Spain</td>
+    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🇵🇾 Paraguayo</td>
+    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">📍 Madrid, España</td>
     <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🎓 FP DAM</td>
-    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🤖 AI + code</td>
+    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🤖 IA + código</td>
   </tr>
   <tr>
-    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">☕ Coffee</td>
-    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🎸 Guitar</td>
+    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">☕ Café</td>
+    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🎸 Guitarra</td>
     <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">🎮 Gaming</td>
-    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">⚡ Code. Learn. Repeat.</td>
+    <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:10px 18px;background:rgba(34,211,238,0.05);font-size:14px;color:#c9d1d9;white-space:nowrap;">⚡ Código. Aprende. Repite.</td>
   </tr>
 </table>
 
-<p align="center" style="color:#8b949e;font-family:ui-monospace,Menlo,monospace;font-size:13px;margin-top:14px;">// building my career as a developer — one commit at a time</p>
+<p align="center" style="color:#8b949e;font-family:ui-monospace,Menlo,monospace;font-size:13px;margin-top:14px;">// construyendo mi carrera como desarrollador — un commit a la vez</p>
 
-<!-- ─── TECH STACK ──────────────────────────────────────────────────── -->
+<p align="center">
+  <img src="assets/dividers/rainbow.svg" width="560" alt="separador arcoíris" />
+</p>
 
-<h2 align="center"><code>$ tech_stack</code></h2>
+<!-- ─── STACK TECNOLÓGICO ─────────────────────────────────────────────── -->
+
+<h2 align="center">🛠️ Stack tecnológico</h2>
 
 <table align="center" style="border-collapse:separate;border-spacing:0 6px;">
   <tr>
-    <td align="right" style="padding:4px 16px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:1px;color:#8b949e;white-space:nowrap;">LANGUAGES</td>
-    <td><img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,html,css&perline=6&theme=dark" alt="languages" /></td>
+    <td align="right" style="padding:4px 16px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:1px;color:#8b949e;white-space:nowrap;">LENGUAJES</td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,html,css&perline=6&theme=dark" alt="lenguajes" /></td>
   </tr>
   <tr>
     <td align="right" style="padding:4px 16px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:1px;color:#8b949e;white-space:nowrap;">WEB</td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=4&theme=dark" alt="web" /></td>
   </tr>
   <tr>
-    <td align="right" style="padding:4px 16px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:1px;color:#8b949e;white-space:nowrap;">DATABASE</td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,supabase&perline=2&theme=dark" alt="database" /></td>
+    <td align="right" style="padding:4px 16px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:1px;color:#8b949e;white-space:nowrap;">BASE DE DATOS</td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase&perline=2&theme=dark" alt="base de datos" /></td>
   </tr>
   <tr>
-    <td align="right" style="padding:4px 16px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:1px;color:#8b949e;white-space:nowrap;">TOOLS</td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" alt="tools" /></td>
+    <td align="right" style="padding:4px 16px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:1px;color:#8b949e;white-space:nowrap;">HERRAMIENTAS</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" alt="herramientas" /><br/>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="claude code" />
+      <img src="https://img.shields.io/badge/OpenCode-6C63FF?style=for-the-badge&logo=opencode&logoColor=white" alt="opencode" />
+    </td>
   </tr>
   <tr>
-    <td align="right" style="padding:4px 16px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:1px;color:#8b949e;white-space:nowrap;">AI · DEV</td>
-    <td style="font-family:ui-monospace,Menlo,monospace;font-size:13px;color:#c9d1d9;">🤖 AI-assisted workflows &amp; learning</td>
+    <td align="right" style="padding:4px 16px;font-family:ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:1px;color:#8b949e;white-space:nowrap;">IA · DEV</td>
+    <td style="font-family:ui-monospace,Menlo,monospace;font-size:13px;color:#c9d1d9;">🤖 Flujos de trabajo asistidos por IA y aprendizaje continuo</td>
   </tr>
 </table>
 
-<!-- ─── CURRENTLY LEARNING ──────────────────────────────────────────── -->
+<p align="center">
+  <img src="assets/dividers/rainbow.svg" width="560" alt="separador arcoíris" />
+</p>
 
-<h2 align="center"><code>$ currently_learning</code></h2>
+<!-- ─── APRENDIENDO AHORA ─────────────────────────────────────────────── -->
+
+<h2 align="center">📚 Aprendiendo ahora</h2>
 
 <div align="center">
   <table style="border-collapse:separate;border-spacing:0 10px;">
     <tr>
       <td style="text-align:left;font-family:ui-monospace,Menlo,monospace;font-size:13px;color:#c9d1d9;white-space:nowrap;">
         FP DAM — Desarrollo de Aplicaciones Multiplataforma<br/>
-        <span style="color:#22d3ee;">███████████████████████</span><span style="color:#30363d;">█████████████</span> <span style="color:#8b949e;">in progress</span>
+        <span style="color:#22d3ee;">███████████████████████</span><span style="color:#30363d;">█████████████</span> <span style="color:#8b949e;">en curso</span>
       </td>
     </tr>
     <tr>
       <td style="text-align:left;font-family:ui-monospace,Menlo,monospace;font-size:13px;color:#c9d1d9;white-space:nowrap;">
-        Software Development<br/>
-        <span style="color:#3fb950;">███████████████████████</span><span style="color:#30363d;">█████████████</span> <span style="color:#8b949e;">in progress</span>
+        Desarrollo de software<br/>
+        <span style="color:#3fb950;">███████████████████████</span><span style="color:#30363d;">█████████████</span> <span style="color:#8b949e;">en curso</span>
       </td>
     </tr>
     <tr>
       <td style="text-align:left;font-family:ui-monospace,Menlo,monospace;font-size:13px;color:#c9d1d9;white-space:nowrap;">
-        AI-assisted Development<br/>
-        <span style="color:#a78bfa;">███████████████████████</span><span style="color:#30363d;">█████████████</span> <span style="color:#8b949e;">in progress</span>
+        Desarrollo asistido por IA<br/>
+        <span style="color:#a78bfa;">███████████████████████</span><span style="color:#30363d;">█████████████</span> <span style="color:#8b949e;">en curso</span>
       </td>
     </tr>
   </table>
-  <p style="color:#8b949e;font-size:12px;margin-top:10px;">// visual progress — not academic metrics</p>
+  <p style="color:#8b949e;font-size:12px;margin-top:10px;">// progreso visual — no es una métrica académica</p>
 </div>
 
-<!-- ─── PROJECTS ────────────────────────────────────────────────────── -->
+<p align="center">
+  <img src="assets/dividers/rainbow.svg" width="560" alt="separador arcoíris" />
+</p>
 
-<h2 align="center"><code>$ ls projects/</code></h2>
+<!-- ─── PROYECTOS ─────────────────────────────────────────────────────── -->
+
+<h2 align="center">🚀 Proyectos</h2>
 
 <div align="center">
   <div style="width:100%;max-width:660px;border:1px solid #30363d;border-radius:10px;background:rgba(34,211,238,0.04);padding:14px 18px;text-align:left;margin:8px auto;">
@@ -153,54 +149,66 @@
   </div>
 </div>
 
-<!-- ─── GITHUB ACTIVITY ─────────────────────────────────────────────── -->
+<p align="center">
+  <img src="assets/dividers/rainbow.svg" width="560" alt="separador arcoíris" />
+</p>
 
-<h2 align="center"><code>$ github_activity</code></h2>
+<!-- ─── ACTIVIDAD EN GITHUB ───────────────────────────────────────────── -->
+
+<h2 align="center">📈 Actividad en GitHub</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivan99vera1-wq&theme=github_dark" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivan99vera1-wq&theme=github_dark" alt="estadísticas de github" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivan99vera1-wq&theme=github_dark" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivan99vera1-wq&theme=github_dark" alt="lenguajes más usados" />
 </div>
 
 <!--
-    OPTIONAL — Contribution snake animation.
-    Requires a GitHub Action (Platane/snk) that generates the SVG. Once the
-    workflow has run, uncomment the image below:
-    <img src="https://raw.githubusercontent.com/ivan99vera1-wq/ivan99vera1-wq/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+    OPCIONAL — Animación de la serpiente de contribuciones.
+    Requiere una GitHub Action (Platane/snk) que genera el SVG. Una vez que el
+    workflow haya ejecutado, descomenta la imagen:
+    <img src="https://raw.githubusercontent.com/ivan99vera1-wq/ivan99vera1-wq/output/github-contribution-grid-snake-dark.svg" alt="serpiente de contribuciones" />
 -->
 
-<!-- ─── PERSONAL INTERESTS ──────────────────────────────────────────── -->
+<p align="center">
+  <img src="assets/dividers/rainbow.svg" width="560" alt="separador arcoíris" />
+</p>
 
-<h2 align="center"><code>$ cat interests.md</code></h2>
+<!-- ─── INTERESES ─────────────────────────────────────────────────────── -->
+
+<h2 align="center">💡 Intereses</h2>
 
 <table align="center" style="border-collapse:separate;border-spacing:10px;">
   <tr>
     <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:16px 22px;background:#0d1117;width:220px;">
-      <b style="color:#f0883e;font-family:ui-monospace,Menlo,monospace;letter-spacing:1px;">☕ COFFEE LEVEL</b>
+      <b style="color:#f0883e;font-family:ui-monospace,Menlo,monospace;letter-spacing:1px;">☕ NIVEL DE CAFÉ</b>
       <div style="margin-top:10px;font-family:ui-monospace,Menlo,monospace;color:#8b949e;">
         <span style="color:#f0883e;">████████████████████</span> 100%
       </div>
-      <div style="margin-top:8px;color:#8b949e;font-size:12px;">// required to compile</div>
+      <div style="margin-top:8px;color:#8b949e;font-size:12px;">// requerido para compilar</div>
     </td>
     <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:16px 22px;background:#0d1117;width:220px;">
-      <b style="color:#22d3ee;font-family:ui-monospace,Menlo,monospace;letter-spacing:1px;">🎮 OFFLINE MODE</b>
+      <b style="color:#22d3ee;font-family:ui-monospace,Menlo,monospace;letter-spacing:1px;">🎮 MODO OFFLINE</b>
       <div style="margin-top:10px;font-family:ui-monospace,Menlo,monospace;color:#c9d1d9;">COD · Valorant · LoL</div>
-      <div style="margin-top:8px;color:#8b949e;font-size:12px;">// ranked breaks between commits</div>
+      <div style="margin-top:8px;color:#8b949e;font-size:12px;">// ranked entre commits</div>
     </td>
     <td align="center" style="border:1px solid #30363d;border-radius:10px;padding:16px 22px;background:#0d1117;width:220px;">
-      <b style="color:#3fb950;font-family:ui-monospace,Menlo,monospace;letter-spacing:1px;">🎸 AFTER CODE</b>
-      <div style="margin-top:10px;font-family:ui-monospace,Menlo,monospace;color:#c9d1d9;">guitar → coffee → repeat</div>
-      <div style="margin-top:8px;color:#8b949e;font-size:12px;">// the soundtrack of my code</div>
+      <b style="color:#3fb950;font-family:ui-monospace,Menlo,monospace;letter-spacing:1px;">🎸 DESPUÉS DEL CÓDIGO</b>
+      <div style="margin-top:10px;font-family:ui-monospace,Menlo,monospace;color:#c9d1d9;">guitarra → café → repetir</div>
+      <div style="margin-top:8px;color:#8b949e;font-size:12px;">// la banda sonora de mi código</div>
     </td>
   </tr>
 </table>
 
-<!-- ─── CONNECT ─────────────────────────────────────────────────────── -->
+<p align="center">
+  <img src="assets/dividers/rayo.svg" width="560" alt="separador rayo" />
+</p>
 
-<h2 align="center"><code>$ connect</code></h2>
+<!-- ─── CONECTA ───────────────────────────────────────────────────────── -->
+
+<h2 align="center">📬 Conecta conmigo</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,instagram&theme=dark" alt="social" />
@@ -211,13 +219,17 @@
   </div>
 </div>
 
-<!-- ─── FOOTER ──────────────────────────────────────────────────────── -->
+<!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1400&color=3FB950&center=true&vCenter=true&width=300&height=34&lines=%3C%2F%3E+Code.+Learn.+Repeat.+%E2%98%95" alt="footer" />
+  <img src="assets/dividers/rayo.svg" width="560" alt="separador rayo" />
+</div>
+
+<div align="center" style="margin-top:18px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1400&color=3FB950&center=true&vCenter=true&width=300&height=34&lines=C%C3%B3digo.+Aprende.+Repite.+%E2%98%95" alt="footer" />
   <p style="color:#484f58;font-size:12px;margin-top:8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" width="16" alt="py" style="vertical-align:middle;"/> © 2026 · built with ☕ and curiosity
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" width="16" alt="py" style="vertical-align:middle;"/> © 2026 · construido con ☕ y curiosidad
   </p>
 </div>
