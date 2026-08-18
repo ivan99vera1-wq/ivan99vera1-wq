@@ -31,7 +31,7 @@
 <div align="center">
   <div style="width:100%;max-width:680px;border:1px solid #30363d;border-radius:12px;background:linear-gradient(135deg,rgba(34,211,238,0.06),rgba(167,139,250,0.06));padding:22px 26px;text-align:left;color:#c9d1d9;font-size:15px;line-height:1.75;">
     <p style="margin:0 0 12px;">
-      Desarrollador web paraguayo 🇵🇾 con base en Madrid, España 🇪🇸. Estudiante de
+      Desarrollador web paraguayo 🇵🇾 Viviendo en Madrid, España 🇪🇸. Estudiante de
       <b style="color:#22d3ee;">FP DAM</b> — Desarrollo de Aplicaciones Multiplataforma — y apasionado por el
       desarrollo de software moderno y el código asistido por IA.
     </p>
